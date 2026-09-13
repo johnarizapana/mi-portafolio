@@ -56,3 +56,6 @@ Para solucionar el problema, debes modificar la linea de importacion del estilo 
 ## Captura de Verificacion
 
 ![Resultado renderizado corregido](../img/captura.png)
+
+- [Guia del proyecto](docs/GUIA.md)
+
